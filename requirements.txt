@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-streamlit==1.38.1
-=======
 streamlit==1.40.0
->>>>>>> ed03330b9f311b21bf31ce1c1f4d23dc0432c183
 pandas==2.2.2
 plotly==5.22.0
 requests==2.32.3
