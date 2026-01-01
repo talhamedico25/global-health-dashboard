@@ -525,7 +525,7 @@ def main():
     <div style="text-align: center; color: #888; font-size: 0.9rem;">
     <p>Data source: <a href="https://data.worldbank.org" target="_blank">World Bank Open Data</a></p>
     <p>Built with ❤️ using Streamlit and Plotly</p>
-    <p>Created by <a href="https://your-portfolio-link.com" target="_blank">Talha Fayyaz</a></p>
+    <p>Created by <a href="https://mtalhafayyaz.netlify.app" target="_blank">Talha Fayyaz</a></p>
     </div>
     """, unsafe_allow_html=True)
 
